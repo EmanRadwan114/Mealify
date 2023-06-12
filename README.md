@@ -11,4 +11,8 @@ Mealify is a simple Restaurant Landing Page that is built using HTML and CSS Onl
 - Transition
 - Animation
 - Media Query
-  -CSS Custom Properties
+- CSS Custom Properties
+
+The landing page supports dark mode.
+  
+
